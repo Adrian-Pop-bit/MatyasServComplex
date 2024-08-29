@@ -725,7 +725,6 @@ body, h2 {
         flex: 1 1 100%; /* Stack service items vertically */
         padding: 15px; /* Adjust padding */
         min-height: auto; /* Remove fixed height */
-        min-width: 100px; 
     }
 
     .gallery-item {
